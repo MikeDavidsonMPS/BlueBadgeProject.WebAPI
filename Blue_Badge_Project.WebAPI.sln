@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueBadgeProject.WebAPI", "Blue_Badge_Project.WebAPI\BlueBadgeProject.WebAPI.csproj", "{79C56E55-B8B5-419C-B0A6-68E339DF2FEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue_Badge_Project.WebAPI", "Blue_Badge_Project.WebAPI\Blue_Badge_Project.WebAPI.csproj", "{79C56E55-B8B5-419C-B0A6-68E339DF2FEC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue_Badge_Project.Data", "Blue_Badge_Project.Data\Blue_Badge_Project.Data.csproj", "{BA6918A3-DAE0-47C2-B734-8A916533848A}"
 EndProject
